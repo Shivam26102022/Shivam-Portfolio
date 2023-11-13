@@ -1,0 +1,9 @@
+# set configuration rule for git
+
+# custom os files
+.DS_Store
+*.pem
+
+# vs code editor steup
+.vscode
+.idea
